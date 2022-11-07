@@ -1,4 +1,8 @@
 package com.example.sample_camera.viewModel
 
-class viewModel {
+import androidx.lifecycle.ViewModel
+
+class viewModel: ViewModel() {
+
+
 }
